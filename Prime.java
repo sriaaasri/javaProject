@@ -1,5 +1,8 @@
 public class Prime {
-  public Prime() {
+  private String name;
+
+  public Prime(String name) {
+    this.name = name;
 
   }
 }
